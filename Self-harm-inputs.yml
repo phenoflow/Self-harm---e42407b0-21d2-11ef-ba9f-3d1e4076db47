@@ -1,0 +1,165 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/self-harm-xintentionl---primary.py
+inputModule3:
+  class: File
+  path: python/self-harm-wrist---primary.py
+inputModule4:
+  class: File
+  path: python/self-harm-xother---primary.py
+inputModule5:
+  class: File
+  path: python/firedintent-self-harm---primary.py
+inputModule6:
+  class: File
+  path: python/self-harm-electrocution---primary.py
+inputModule7:
+  class: File
+  path: python/self-harm-strangul---primary.py
+inputModule8:
+  class: File
+  path: python/self-harm-selfmutilation---primary.py
+inputModule9:
+  class: File
+  path: python/self-harm-suffoc---primary.py
+inputModule10:
+  class: File
+  path: python/homeintent-self-harm---primary.py
+inputModule11:
+  class: File
+  path: python/self-harm-injuryjump---primary.py
+inputModule12:
+  class: File
+  path: python/natural-self-harm---primary.py
+inputModule13:
+  class: File
+  path: python/self-harm-jumpng---primary.py
+inputModule14:
+  class: File
+  path: python/self-harm-exhaust---primary.py
+inputModule15:
+  class: File
+  path: python/self-harm-barbitone---primary.py
+inputModule16:
+  class: File
+  path: python/self-harm-selfpoisoning---primary.py
+inputModule17:
+  class: File
+  path: python/self-harm-front---primary.py
+inputModule18:
+  class: File
+  path: python/self-harm-xlarger---primary.py
+inputModule19:
+  class: File
+  path: python/farmintent-self-harm---primary.py
+inputModule20:
+  class: File
+  path: python/self-harm-jumping---primary.py
+inputModule21:
+  class: File
+  path: python/self-harm-distributed---primary.py
+inputModule22:
+  class: File
+  path: python/self-harm-throwing---primary.py
+inputModule23:
+  class: File
+  path: python/agricultural-self-harm---primary.py
+inputModule24:
+  class: File
+  path: python/self-harm-oxidase---primary.py
+inputModule25:
+  class: File
+  path: python/self-harm-phenobarbitone---primary.py
+inputModule26:
+  class: File
+  path: python/self-harm-instrument---primary.py
+inputModule27:
+  class: File
+  path: python/self-harm-explosv---primary.py
+inputModule28:
+  class: File
+  path: python/self-harm-inflicted---primary.py
+inputModule29:
+  class: File
+  path: python/self-harm-barbiturates---primary.py
+inputModule30:
+  class: File
+  path: python/self-harm-selfasphyxiation---primary.py
+inputModule31:
+  class: File
+  path: python/selfharm---primary.py
+inputModule32:
+  class: File
+  path: python/self-harm-befor---primary.py
+inputModule33:
+  class: File
+  path: python/placeintent-self-harm---primary.py
+inputModule34:
+  class: File
+  path: python/self-harm-subst---primary.py
+inputModule35:
+  class: File
+  path: python/domestic-self-harm---primary.py
+inputModule36:
+  class: File
+  path: python/self-harm-scald---primary.py
+inputModule37:
+  class: File
+  path: python/military-self-harm---primary.py
+inputModule38:
+  class: File
+  path: python/self-harm-antidepressant---primary.py
+inputModule39:
+  class: File
+  path: python/corrosive-self-harm---primary.py
+inputModule40:
+  class: File
+  path: python/self-harm-premises---primary.py
+inputModule41:
+  class: File
+  path: python/self-harm-medicine---primary.py
+inputModule42:
+  class: File
+  path: python/self-harm-medicam---primary.py
+inputModule43:
+  class: File
+  path: python/self-harm-selfincineration---primary.py
+inputModule44:
+  class: File
+  path: python/self-harm-hunting---primary.py
+inputModule45:
+  class: File
+  path: python/self-harm-analge---primary.py
+inputModule46:
+  class: File
+  path: python/self-harm-butabarbitone---primary.py
+inputModule47:
+  class: File
+  path: python/self-harm-plastic---primary.py
+inputModule48:
+  class: File
+  path: python/self-harm-compound---primary.py
+inputModule49:
+  class: File
+  path: python/extreme-self-harm---primary.py
+inputModule50:
+  class: File
+  path: python/self-harm-tranquilliser---primary.py
+inputModule51:
+  class: File
+  path: python/self-harm-aircraft---primary.py
+inputModule52:
+  class: File
+  path: python/self-harm-effects---primary.py
+inputModule53:
+  class: File
+  path: python/self-harm-structure---primary.py
+inputModule54:
+  class: File
+  path: python/self-harm-quinalbarbitone---primary.py
+inputModule55:
+  class: File
+  path: python/output-cases.py
